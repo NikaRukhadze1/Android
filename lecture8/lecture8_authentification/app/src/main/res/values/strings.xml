@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lecture8_authentification</string>
+    <string name="Mail">e_mail</string>
+    <string name="s_password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">  Email</string>
+</resources>
